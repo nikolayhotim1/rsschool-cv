@@ -155,3 +155,26 @@
     values.push("is #1");
     alert(values);
     ```
+
+### Work experience #
+**Company Name:** _JSC "GIAP"_;
+**Position:** _Design Engineer_;
+**Period:** _02.03.2018 - until now_
+
+### Education #
+**City of training:** _Grodno_;
+**Educational institution:** _Yanka Kupala Grodno State University_;
+**Faculty:** _Engineering and construction_;
+**Department:** _Construction Materials Science_;
+**Form of training:** _Full-time_;
+**Status:** _Graduate (specialist)_;
+**Year of graduation:** _2015_;
+**Mandatory distribution:** _I am not subject to distribution_
+
+### Training courses #
+**Rolling Scopes School**:
+* _JavaScript/Front-end 2021 Q1_;
+* _JavaScript/Front-end Pre-School 2021 Q3 (my current course)_
+
+### English level #
+**A1+ (Basic Medium)**
