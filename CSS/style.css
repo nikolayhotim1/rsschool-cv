@@ -26,7 +26,8 @@ section.right_section {
     background-color: white;
 }
 
-section h2,h3 {
+section h2,
+h3 {
     padding: 10px;
     border-left: 10px solid orange;
 }
@@ -41,11 +42,13 @@ section.left_section footer {
     text-align: center;
 }
 
-section.left_section h2,h3 {
+section.left_section h2,
+h3 {
     background-color: darkgray;
 }
 
-section.left_section ul a,section.left_section footer a {
+section.left_section ul a,
+section.left_section footer a {
     text-decoration: none;
     color: white;
 }
@@ -64,6 +67,7 @@ section.right_section h3 {
 
 }
 
-section.right_section p,h1 {
+section.right_section p,
+h1 {
     padding-left: 20px;
 }
